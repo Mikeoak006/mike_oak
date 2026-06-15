@@ -1,11 +1,12 @@
-# 👽Hello everbody! I am Mike!
+# 👋 Hello, everybody! I'm Mike!
 
-🥸Professional name: Miguel Carvalho
-student of ADS
+🥸 **Name:** Miguel Carvalho
 
-👾favorite Languages: C ; Js and Python
+🎓 **Student of Systems Analysis and Development (ADS)**
 
-The Formule is: "💻+☕=⚡⚡"
+👾 **Favorite Languages:** C, JavaScript, and Python
+
+💻 + ☕ = ⚡⚡
 
 <picture>
   <source
@@ -19,7 +20,13 @@ The Formule is: "💻+☕=⚡⚡"
   <img src="https://github-readme-stats.vercel.app/api?username=Mikeoak006&show_icons=true" />
 </picture>
 
+## 🚀 Technologies I'm Learning
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mike-C" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Mike-Js" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mike-Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
